@@ -4,6 +4,7 @@ A more visible UI element for Relics with unique buffs.
 Displays icons for unique relic buffs, as well as stacks and durations whenever they apply. By default this only will only be visible in combat. 
 
 <img width="286" height="121" alt="image" src="https://github.com/user-attachments/assets/4809a478-948b-402f-898e-70a8dce43556" />
+
 (The relic name is due to the element being selected for editing, it will not appear in gameplay)
 
 High-frequency buff relics, like Thief, Herald or Monk, will display a simplified UI, as they should, for the most part, always be at maximum stacks.
